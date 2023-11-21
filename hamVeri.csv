@@ -1,0 +1,175 @@
+Meslek,Ülke,Yetkinlik,Minimum Beklenilen Deneyim(YIL)
+Artificial Intelligence Engineering,Turkey,"Analitik Düşünme,Problem Çözme,Yaratıcılık,Analiz,Programlama",5
+Artificial Intelligence Engineering,USA,,
+Artificial Intelligence Engineering,Canada,"Analitik Düşünme,Ekip Çalışması,Programlama",2
+Artificial Intelligence Engineering,Italy,"Analitik Düşünme,Programlama,Proje Yönetimi",0
+Artificial Intelligence Engineering,Israel,"Analitik Düşünme,Problem Çözme,Programlama",0
+Artificial Intelligence Engineering,Germany,"Öğrenmeye Açıklık,Analiz,Programlama",0
+3D Production Engineering,Turkey,"Tasarım Becerisi,İletişim Becerileri,Çizim Yeteneği,Proje Yönetimi",
+3D Production Engineering,USA,"Tasarım Becerisi,İyi İletişim,Ekip Çalışması,Proje Yönetimi",0
+3D Production Engineering,Canada,"Tasarım Becerisi,Problem Çözme,Müşteri Odaklılık",0
+3D Production Engineering,Italy,"Programlama,Analitik Düşünme,Tasarım Becerisi,Öğrenmeye Açıklık",2
+3D Production Engineering,Israel,"Tasarım Becerisi,Problem Çözme,Analitik Düşünme,Programlama",2
+3D Production Engineering,Germany,"Programlama,Problem Çözme,Tasarım Becerisi",
+Mobile Application Developer,Turkey,"Yaratıcılık,Problem Çözme,Programlama",2
+Mobile Application Developer,USA,"Ekip Çalışması,Analitik Düşünme,Programlama,Problem Çözme",0
+Mobile Application Developer,Canada,"Analitik Düşünme,Problem Çözme,İletişim Becerisi,Programlama",0
+Mobile Application Developer,Italy,"Analitik Düşünme,Problem Çözme,Programlama,Proje Yönetimi",1
+Mobile Application Developer,Israel,"Analitik Düşünme,Problem Çözme,İletişim Becerisi,Öğrenmeye Açıklık",2
+Mobile Application Developer,Germany,"Analitik Düşünme,Problem Çözme,İletişim Becerisi,Programlama",2
+Game Developer,Turkey,"Yaratıcılık,Problem Çözme,Programlama",2
+Game Developer,USA,"İletişim Becerileri,Problem Çözme,Analitik Düşünme,Ekip Çalışması",0
+Game Developer,Canada,"Analitik Düşünme,Problem Çözme,Programlama",0
+Game Developer,Italy,"Analitik Düşünme,Programlama,İletişim Becerisi,Problem Çözme",2
+Game Developer,Israel,"Analitik Düşünme,Problem Çözme,Programlama",2
+Game Developer,Germany,"Analitik Düşünme,Problem Çözme,Programlama",2
+Blockchain Developer,Turkey,"Kriptografi Bilgisi,Problem Çözme,Programlama",2
+Blockchain Developer,USA,"Analitik Düşünme,Problem Çözme,Programlama,Analiz",0
+Blockchain Developer,Canada,"Problem Çözme,Analitik Düşünme,Analiz",0
+Blockchain Developer,Italy,"Analitik Düşünme,Problem Çözme,Ekip Çalışması,Öğrenmeye Açıklık",0
+Blockchain Developer,Israel,"Problem Çözme,Analitik Düşünme,Programlama",2
+Blockchain Developer,Germany,"Analitik Düşünme,Programlama,Problem Çözme,İletişim Becerisi",2
+Software Engineering,Turkey,"Problem Çözme,Analitik Düşünme,Programlama",1
+Software Engineering,USA,"Programlama,Problem Çözme,Analitik Düşünme,Öğrenmeye Açıklık",0
+Software Engineering,Canada,"Problem Çözme,Programlama,Analitik Düşünme",2
+Software Engineering,Italy,"Problem Çözme,Programlama,Analitik Düşünme",2
+Software Engineering,Israel,"Programlama,Problem Çözme,Analitik Düşünme",2
+Software Engineering,Germany,"Programlama,Problem Çözme,Analitik Düşünme,İletişim Becerileri",2
+AR/VR Developer,Turkey,"Yaratıcılık,İnovasyon Problem Çözme,Tasarım Becerisi,Programlama",0
+AR/VR Developer,USA,"Tasarım Becerisi,Ekip Çalışması,Programlama,Analitik Düşünme",5
+AR/VR Developer,Canada,"Analitik Düşünme,Tasarım Becerisi,Öğrenmeye Açıklık,Programlama",2
+AR/VR Developer,Italy,"Tasarım Becerisi,Programlama,Ekip Çalışması,Öğrenmeye Açıklık",0
+AR/VR Developer,Israel,"Analitik Düşünme,Öğrenmeye Açıklık,Programlama,Tasarım Becerisi",2
+AR/VR Developer,Germany,"Analitik Düşünme,Programlama,Öğrenmeye Açıklık",0
+Cyber Security Specialist,Turkey,"Analitik Düşünme,Problem Çözme,İyi İletişim,Programlama",0
+Cyber Security Specialist,USA,"Liderlik,Ekip Çalışması,Analitik Düşünme,Analiz,Programlama",2
+Cyber Security Specialist,Canada,"Ekip Çalışması,Programlama,Analiz,Analitik Düşünme",0
+Cyber Security Specialist,Italy,"Ekip Çalışması,Programlama,Analiz,Analitik Düşünmek",0
+Cyber Security Specialist,Israel,,
+Cyber Security Specialist,Germany,"Ekip Çalışması,Programlama,Analiz,Analitik Düşünme,Tasarım Becerisi",1
+Content Creator,Turkey,"İletişim Becerileri,Yaratıcılık,Öğrenmeye Açıklık",0
+Content Creator,USA,"Analitik Düşünme,Analiz,Ekip Çalışması,Yaratıcılık",2
+Content Creator,Canada,"Programlama,Analiz,Analitik Düşünme,Ekip Çalışması,Yaratıcılık",1
+Content Creator,Italy,"Analitik Düşünme,Analiz,Ekip Çalışması,Yaratıcılık",0
+Content Creator,Israel,,
+Content Creator,Germany,"İletişim Becerileri,Yaratıcılık,Öğrenmeye Açıklık,Tasarım Becerisi,Ekip Çalışması",0
+Psychiatrist,Turkey,"Empati Yeteneği,İyi İletişim,Problem Çözme,Analiz",0
+Psychiatrist,USA,"Analitik Düşünme,Empati Yeteneği,Analiz,Öğrenmeye Açıklık,Problem Çözme",0
+Psychiatrist,Canada,"Analitik Düşünme,Empati Yeteneği,Analiz,Öğrenmeye Açıklık,Problem Çözme",1
+Psychiatrist,Italy,"Empati Yeteneği,İyi İletişim,Problem Çözme,Analiz",0
+Psychiatrist,Israel,"Analitik Düşünme,Empati Yeteneği,Analiz,Öğrenmeye Açıklık,Problem Çözme",0
+Psychiatrist,Germany,"Empati Yeteneği,İyi İletişim,Problem Çözme,Analiz",0
+Robotics Engineering,Turkey,"Programlama,İnovasyon,Problem Çözme",2
+Robotics Engineering,USA,"Analitik Düşünme,Problem Çözme,Programlama,Ekip Çalışması",2
+Robotics Engineering,Canada,"Analitik Düşünme,Problem Çözme,Programlama,Ekip Çalışması",2
+Robotics Engineering,Italy,"Analitik Düşünme,Problem Çözme,Programlama,Ekip Çalışması",2
+Robotics Engineering,Israel,"Analitik Düşünme,Problem Çözme,Programlama,Ekip Çalışması",2
+Robotics Engineering,Germany,"Analitik Düşünme,Problem Çözme,Programlama,Ekip Çalışması",2
+Digital Marketing Expertise,Turkey,"Yaratıcılık,Analitik Düşünme,Problem Çözme,Satış Becerisi,İyi İletişim,Analiz,Raporlama",2
+Digital Marketing Expertise,USA,"Ekip Çalışması,Proje Yönetimi,Müşteri Odaklılık,Analiz",2
+Digital Marketing Expertise,Canada,"Ekip Çalışması,Proje Yönetimi,Müşteri Odaklılık,Analiz",2
+Digital Marketing Expertise,Italy,"Ekip Çalışması,Proje Yönetimi,Müşteri Odaklılık,Analiz",2
+Digital Marketing Expertise,Israel,"Ekip Çalışması,Proje Yönetimi,Müşteri Odaklılık,Analiz",2
+Digital Marketing Expertise,"Ekip Çalışması,Proje Yönetimi,Müşteri Odaklılık,Analiz",2,
+Data Scientist,Turkey,"Programlama,İnovasyon,Problem Çözme,Analitik Düşünme,Takım Çalışması,Analiz,Raporlama",2
+Data Scientist,USA,"Ekip Çalışması,Programlama,Problem Çözme,Analiz,Liderlik",2
+Data Scientist,Canada,"Ekip Çalışması,Programlama,Problem Çözme,Analiz",2
+Data Scientist,Italy,"Ekip Çalışması,Programlama,Problem Çözme,Analiz",2
+Data Scientist,Israel,"Ekip Çalışması,Programlama,Problem Çözme,Analiz",2
+Data Scientist,Germany,"Ekip Çalışması,Programlama,Problem Çözme,Analiz",2
+Cloud Engineering,Turkey,"Programlama,Problem Çözme,Öğrenmeye Açıklık,Analitik Düşünme",2
+Cloud Engineering,USA,"Ekip Çalışması,Programlama,Analiz,Analitik Düşünme,Öğrenmeye Açıklık",2
+Cloud Engineering,Canada,"Ekip Çalışması,Programlama,Analiz,Analitik Düşünme,Öğrenmeye Açıklık",2
+Cloud Engineering,Italy,"Programlama,Problem Çözme,Öğrenmeye Açıklık,Analitik Düşünme",2
+Cloud Engineering,Israel,"Programlama,Problem Çözme,Öğrenmeye Açıklık,Analitik Düşünme",2
+Cloud Engineering,Germany,"Programlama,Problem Çözme,Öğrenmeye Açıklık,Analitik Düşünme",2
+Dietetics,Turkey,"İyi İletişim,Empati Yeteneği,Analitik Düşünme",2
+Dietetics,USA,"Analitik Düşünme,İyi İletişim,Analiz,Problem Çözme",4
+Dietetics,Canada,"Analitik Düşünme,İyi İletişim,Analiz,Problem Çözme",4
+Dietetics,Italy,"Ekip Çalışması,Analitik Düşünme,İyi İletişim,Problem Çözme",4
+Dietetics,Israel,"Analitik Düşünme,İyi İletişim,Problem Çözme",4
+Dietetics,Germany,"Analitik Düşünme,İyi İletişim,Analiz,Problem Çözme",4
+Database Specialist,Turkey,"Programlama,Analitik Düşünme,Problem Çözme",2
+Database Specialist,USA,"Programlama,Analitik Düşünme,Analiz",5
+Database Specialist,Canada,"Programlama,Analitik Düşünme,Analiz",5
+Database Specialist,Italy,"Programlama,Analitik Düşünme,Analiz",5
+Database Specialist,Israel,"Programlama,Analitik Düşünme,Analiz",5
+Database Specialist,Germany,"Programlama,Analitik Düşünme,Analiz",5
+Epidemiologists,Turkey,"Analitik Düşünme,Araştırma Becerisi,İnovasyon",5
+Epidemiologists,USA,"Veri Toplama ve Kullanma,Analitik Düşünme,Analiz",2
+Epidemiologists,Canada,"Veri Toplama ve Kullanma,Analitik Düşünme,Analiz",2
+Epidemiologists,Italy,"Veri Toplama ve Kullanma,Analitik Düşünme,Analiz",2
+Epidemiologists,Israel,"Veri Toplama ve Kullanma,Analitik Düşünme,Analiz",2
+Epidemiologists,Germany,"Veri Toplama ve Kullanma,Analitik Düşünme,Analiz",2
+Statisticians,Turkey,"Analiz,Raporlama,Analitik Düşünme,Problem Çözme",2
+Statisticians,USA,"Programlama,Analiz,Öğrenme Becerisi,Analitik Düşünme",4
+Statisticians,Canada,"Analiz,Öğrenme Becerisi,Analitik Düşünme",4
+Statisticians,Italy,"Programlama,Analiz,Öğrenme Becerisi,Analitik Düşünme",4
+Statisticians,Israel,"Programlama,Analiz,Öğrenme Becerisi,Analitik Düşünme",4
+Statisticians,Germany,"Programlama,Analiz,Öğrenme Becerisi,Analitik Düşünme",4
+Graphic Designer,Turkey,"Yaratıcılık,Tasarım Becerisi,Öğrenmeye Açıklık",2
+Graphic Designer,USA,"Tasarım Becerisi,Yaratıcılık,Öğrenmeye Açıklık,Zaman Yönetimi",2
+Graphic Designer,Canada,"Tasarım Becerisi,Yaratıcılık,Öğrenmeye Açıklık,Zaman Yönetimi",2
+Graphic Designer,Italy,"Tasarım Becerisi,Yaratıcılık,Öğrenmeye Açıklık,Zaman Yönetimi",2
+Graphic Designer,Israel,"Tasarım Becerisi,Yaratıcılık,Öğrenmeye Açıklık,Zaman Yönetimi",2
+Graphic Designer,Germany,"Tasarım Becerisi,Yaratıcılık,Öğrenmeye Açıklık,Zaman Yönetimi",2
+Food Technician,Turkey,"Analitik Düşünme,Takım Çalışması",0
+Food Technician,USA,"Takım Çalışması,Analitik Düşünme,Analiz",2
+Food Technician,Canada,"Takım Çalışması,Analitik Düşünme,Analiz",2
+Food Technician,Italy,"Takım Çalışması,Analitik Düşünme,Analiz",2
+Food Technician,Israel,"Takım Çalışması,Analitik Düşünme,Analiz",2
+Food Technician,Germany,"Takım Çalışması,Analitik Düşünme,Analiz",2
+Hydrologist,Turkey,"Araştırma Becerisi,Analiz,Raporlama",
+Hydrologist,USA,"Analiz,Araştırma Becerisi,Öğrenme Becerisi,Raporlama",4
+Hydrologist,Canada,"Analiz,Araştırma Becerisi,Öğrenme Becerisi,Raporlama",4
+Hydrologist,Italy,"Analiz,Araştırma Becerisi,Öğrenme Becerisi,Raporlama",4
+Hydrologist,Israel,"Analiz,Araştırma Becerisi,Öğrenme Becerisi,Raporlama",4
+Hydrologist,Germany,"Analiz,Araştırma Becerisi,Öğrenme Becerisi,Raporlama",4
+User Experience Specialist,Turkey,"Yaratıcılık,Tasarım Becerisi,Problem Çözme,Empati",2
+User Experience Specialist,USA,"Yaratıcı Düşünme,Tasarım Becerisi,Problem Çözme,Analiz",4
+User Experience Specialist,Canada,"Yaratıcı Düşünme,Analiz,Tasarım Becerisi,Problem Çözme",4
+User Experience Specialist,Italy,"Yaratıcı Düşünme,Tasarım Becerisi,Problem Çözme,Analiz",4
+User Experience Specialist,Israel,"Yaratıcı Düşünme,Tasarım Becerisi,Problem Çözme,Analiz",4
+User Experience Specialist,Germany,"Yaratıcı Düşünme,Tasarım Becerisi,Problem Çözme,Analiz",4
+Actuary,Turkey,"Analitik Düşünme,Problem Çözme,İyi İletişim,Finansal Analiz",
+Actuary,USA,,
+Actuary,Canada,,
+Actuary,Italy,,
+Actuary,Israel,,
+Actuary,Germany,,
+Metaverse Specialist,Turkey,"Yaratıcılık,İnovasyon,Problem Çözme",
+Metaverse Specialist,USA,,
+Metaverse Specialist,Canada,,
+Metaverse Specialist,Italy,,
+Metaverse Specialist,Israel,,
+Metaverse Specialist,Germany,,
+E-Sports Gamers,Turkey,"Takım Çalışması,Stres Yönetimi,Liderlik",
+E-Sports Gamers,USA,,
+E-Sports Gamers,Canada,,
+E-Sports Gamers,Italy,,
+E-Sports Gamers,Israel,,
+E-Sports Gamers,Germany,,
+Genetic Engineering,Turkey,"Analitik Düşünme,Problem Çözme,Araştırma Becerisi",
+Genetic Engineering,USA,,
+Genetic Engineering,Canada,,
+Genetic Engineering,Italy,,
+Genetic Engineering,Israel,,
+Genetic Engineering,Germany,,
+Entrepreneurship,Turkey,"Yaratıcılık,Liderlik,İnovasyon,Problem Çözme,Satış Becerisi",0
+Entrepreneurship,USA,,
+Entrepreneurship,Canada,,
+Entrepreneurship,Italy,,
+Entrepreneurship,Israel,,
+Entrepreneurship,Germany,,
+IoT Engineering,Turkey,"Yaratıcılık,İnovasyon,Problem Çözme,Analitik Düşünme,Programlama,Öğrenmeye Açıklık",1
+IoT Engineering,USA,,
+IoT Engineering,Canada,,
+IoT Engineering,Italy,,
+IoT Engineering,Israel,,
+IoT Engineering,Germany,,
+Health Tourism,Turkey,"İyi İletişim,Satış Becerisi",2
+Health Tourism,USA,,
+Health Tourism,Canada,,
+Health Tourism,Italy,,
+Health Tourism,Israel,,
+Health Tourism,Germany,,
